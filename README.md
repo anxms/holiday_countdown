@@ -14,7 +14,7 @@
 
 1. 确保已安装[HACS]
 2. 在HACS中添加自定义存储库:
-   - 仓库: `https://github.com/anxms/holiday-countdown-ha`
+   - 仓库: https://github.com/anxms/holiday_countdown_ha
    - 类别: 集成
 3. 安装"节假日倒计时"
 4. 重启Home Assistant
@@ -39,7 +39,3 @@
 - **开始日期**: 节假日开始的日期
 - **下一个节假日**: 下下个节假日的名称
 
-
-## 许可证
-
-MIT License
