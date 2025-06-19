@@ -1,0 +1,8 @@
+{
+  "name": "节假日倒计时",
+  "domains": ["sensor"],
+  "homeassistant": "2023.5.0",
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "holiday_countdown.zip"
+}
